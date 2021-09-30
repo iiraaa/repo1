@@ -1,6 +1,6 @@
 # Python Program to calculate the square root
 
-print("Hello Py4Econ!")
+print("Hello, good day, Py4Econ!")
 
 # To take the input from the user
 num = float(input('Enter a number: '))
